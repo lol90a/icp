@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/marketplace-icp-backend"
+]
+resolver = "2"
